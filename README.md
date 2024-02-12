@@ -1,4 +1,4 @@
-# Llama2 Model API
+# Mistral AI Model API
 
 ## Overview
 This is a FastAPI application that serves as an API endpoint for the Mistral AI model. The API allows users to get answers from the Mistral AI model.
